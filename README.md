@@ -2,7 +2,7 @@
 
 This is a Hello World Program. It is made to demonstrate use of GitHub with Visual Studio Code. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+Here is a demonstation of my program. [Software Demo Video](https://youtu.be/i7mrgRnXo9c)
 
 # Development Environment
 * Visual Studio Code
